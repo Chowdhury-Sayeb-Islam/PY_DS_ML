@@ -1,2 +1,2 @@
-# PY_DS_ML
-Complete Course upon DS and ML by PY
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
